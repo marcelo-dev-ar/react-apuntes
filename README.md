@@ -14,7 +14,7 @@
 [11 - Iconos](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/11%20-%20Iconos.md)<br />
 [12 - Renderizado condicional](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/12%20-%20Renderizado%20condicional.md)<br />
 [13 - Componentes de clase](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/13%20-%20Componentes%20de%20clase.md)<br />
-[14 - Métodos y eventos](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/13%20-%20Componentes%20de%20clase.md)<br />
+[14 - Métodos y eventos](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/14%20-%20M%C3%A9todos%20y%20eventos.md)<br />
 [15 - Estado](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/15%20-%20Estado.md)<br />
 [16 - setState: arrays y objectos](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/16%20-%20setState:%20arrays%20y%20objectos.md)<br />
 [17 - Elevando el estado](https://github.com/ada7matm/react-apuntes/blob/master/apuntes/17%20-%20Elevando%20el%20estado.md)<br />
